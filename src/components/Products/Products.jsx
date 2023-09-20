@@ -19,6 +19,7 @@ const Products = (props) => {
                 <p className='product-price'>Price : ${price}</p>
                 <p className='product-price'>Manufacturer : {seller} </p>
                 <p className='product-price'>Rating : {ratings} </p>
+                <p>hi</p>
 
 
             </div>
